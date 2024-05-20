@@ -1,4 +1,4 @@
-package ru.aston.course.task1;
+package ru.aston.course.lesson1.task1;
 
 public class Main {
     public static void main(String[] args) {
